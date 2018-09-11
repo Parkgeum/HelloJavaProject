@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         int year = 2017;
         System.out.println("Welcom to "+year+" Java Class");
+        System.out.println("version2");
     }
 }
