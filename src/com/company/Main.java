@@ -7,5 +7,7 @@ public class Main {
         int year = 2017;
         System.out.println("Welcom to "+year+" Java Class");
         System.out.println("version2");
+        System.out.println("Welcome Web&App");
+
     }
 }
